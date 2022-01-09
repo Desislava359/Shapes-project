@@ -1,0 +1,10 @@
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\bin\Debug\DrawShapesCourseWork.exe.config
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\bin\Debug\DrawShapesCourseWork.exe
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\bin\Debug\DrawShapesCourseWork.pdb
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.FormScene.resources
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.Properties.Resources.resources
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.csproj.GenerateResource.cache
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.exe
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.pdb
+C:\Users\qwerty\source\repos\DrawShapesCourseWork\DrawShapesCourseWork\obj\Debug\DrawShapesCourseWork.csproj.AssemblyReference.cache
